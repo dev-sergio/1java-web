@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.net.httpserver.HttpsServer"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="org.apache.jasper.tagplugins.jstl.core.ForEach"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.Banco"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.Empresa"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.servlet.ListaEmpresasServlet"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.ListaEmpresas"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.RemoveEmpresa"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.Acao"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.runtime.reflect.ListTransducedAccessorImpl"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Usuario"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javax.servlet.Filter"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Banco"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Empresa"/>
+<fullyQualifiedTypeName name="org.apache.http.client.fluent.Form"/>
+<fullyQualifiedTypeName name="org.apache.http.client.fluent.Request"/>
+</qualifiedTypeNameHistroy>

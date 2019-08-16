@@ -1,0 +1,25 @@
+1564986045809	Rename field 'listaEmpresa'
+1564986254688	Move compilation unit
+1564986261317	Move compilation unit
+1565029710793	Delete element
+1565031465555	Rename resource 'novaEmpresaCriada.html'
+1565035013102	Delete element
+1565035031183	Rename resource 'listaEmpresas2.jsp'
+1565039670297	Rename resource 'formNovaEmpresa.html'
+1565042969510	Encapsulate field 'dataAbertura'
+1565044526385	Rename local variable 'dataAbertura'
+1565141077754	Rename method 'remove'
+1565231876956	Move compilation unit
+1565231884892	Move compilation unit
+1565235626869	Copy compilation unit
+1565236864404	Delete elements
+1565237610959	Rename local variable 'link'
+1565238030423	Rename local variable 'me'
+1565238036956	Rename local variable 're'
+1565238046468	Rename local variable 'le'
+1565238842196	Move 4 resources to 'view'
+1565239149156	Copy compilation unit
+1565243939882	Copy file
+1565244746610	Copy compilation unit
+1565284278307	Rename local variable 'user'
+1565319428794	Copy compilation unit

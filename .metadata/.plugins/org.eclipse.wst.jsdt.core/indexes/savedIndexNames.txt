@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\sergi\Desktop\ALURA\Workspace-web\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3246468916.index
+2046677019.index
+1006497589.index
+530741935.index
+238755930.index
+456790899.index
